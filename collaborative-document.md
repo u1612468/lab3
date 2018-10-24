@@ -33,7 +33,7 @@ The graph shows how such participation increases from less than 10% of 20-year-o
 
     08 13 18    
     
-![BAIYUN's graph of sports, exercise & recreation vs age based on age](BAIYUN-plot.svg)
+ ![BAIYUN's graph of sports, exercise & recreation vs age based on age](BAIYUN-plot.svg)
 ## A Short Paragraph
 This plot shows that the percentage of individuals who participated in sports, exercise and recreation at different age and gender,using data from the USA, based on data from the 2017 American Time Use Survey(compile by the Bureau of Labour Statistics), in which respondents recorded how they spent all of their time on the day before they were interviewed.This Survey provides the structure of time alloction for people in different age and gender performing in various activities such as Socialising, Volunteering , Travelling and Childcare.
 
